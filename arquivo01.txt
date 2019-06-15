@@ -1,7 +1,8 @@
+hello mundo !!!!!!!!!!!!!!
 
-uma 3 linha de código
+uma terceira linha de código.
 
-
-esta na dev 
+lina ao meio
 
 forçando o conflito!!!!!!!!!!
+
